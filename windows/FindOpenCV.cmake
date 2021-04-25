@@ -47,7 +47,7 @@
 # 
 #----------------------------------------------------------
 
-
+set (OpenCV_DIR E:\opencv\build)
 find_path(OpenCV_DIR "OpenCVConfig.cmake" DOC "Root directory of OpenCV")
 
 ##====================================================
